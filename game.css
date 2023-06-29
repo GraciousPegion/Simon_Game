@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+h1{
+ color: silver;
+ font-family: cursive;
+ font-size: 4rem;
+ text-shadow: 2px 2px rgb(52, 157, 56);
+}
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 180px;
+  width: 180px;
+  border: 10px solid rgb(83, 77, 77);
+  border-radius: 15%;
+}
+.container
+{
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+.pressed
+{
+  box-shadow: 0 0 25px aliceblue;
+}
+  
+ 
+    
+  
